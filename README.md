@@ -13,6 +13,10 @@
 -   Cài môi trường.
 
 ```bash
+git clone https://github.com/hienhayho/yolov3-bkai.git
+
+cd yolov3-bkai/
+
 pip3 install poetry --user
 poetry install
 ```
